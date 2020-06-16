@@ -1,0 +1,6 @@
+i = int(input())
+print('   _~_    ' * i)
+print('  (o o)   ' * i)
+print(' /  V  \  ' * i)
+print('/(  _  )\ ' * i)
+print('  ^^ ^^   ' * i)
